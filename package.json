@@ -1,0 +1,17 @@
+{
+  "name": "web-scapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scrapping": "node index.mjs",
+    "unify": "node unify.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.43.1",
+    "uuid": "^9.0.1"
+  }
+}
